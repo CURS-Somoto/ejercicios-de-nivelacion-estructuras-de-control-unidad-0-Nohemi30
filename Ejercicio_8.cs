@@ -5,7 +5,21 @@ Desarrolla un programa que genere y muestre
 la siguiente secuencia de patrones:
 
 
-*
+**
+
+
+**
+
+
+***
+
+
+****
+
+
+*****
+
+*/
 
 
 **
