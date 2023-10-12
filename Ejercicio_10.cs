@@ -6,7 +6,9 @@ Positivo, Negativo o Cero
 Escribe un programa en C# que determine si
 un número entero dado es positivo, negativo o cero.
 */
-csharp
+
+
+
 using System;
 
 class Program
@@ -32,4 +34,3 @@ class Program
         Console.ReadLine();
     }
 }
-
